@@ -2,7 +2,7 @@
 Add the device primary user to local administrators group with PowerShell and no CSP
 
 > *View the full blog post here*
-http://www.systanddeploy.com/2020/10/endpoint-analytics-proactive.html
+https://www.systanddeploy.com/2020/10/add-primary-user-of-device-to-local.html
 
 **Available scripts**
 You will find the below scripts:
