@@ -1,3 +1,10 @@
+##
+##
+##  THIS CODE HAS NOT BEEN UPDATED FOR MICROSOFT GRAPH AUTHENTICATION AND DEVICEMANAGEMENT
+##
+##
+
+<#
 $Log_File = "c:\windows\debug\Add_local_admin.log"
 Function Write_Log
 	{
@@ -120,3 +127,4 @@ Else
 		Write_Log -Message_Type "INFO" -Message "Graph Intune module has not been imported"		
 	}
 
+#>
